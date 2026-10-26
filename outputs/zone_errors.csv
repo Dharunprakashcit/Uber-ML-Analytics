@@ -1,0 +1,97 @@
+model,horizon,zone,MAE
+Historical mean,1,Zone-A,3.76902108814694
+Historical mean,1,Zone-B,3.5499708146599533
+Historical mean,1,Zone-C,3.146671402951918
+Historical mean,1,Zone-D,2.1421978630389265
+Historical mean,1,Zone-E,3.5293758733491907
+Historical mean,1,Zone-F,2.225380804718563
+Historical mean,1,Zone-G,3.9438368959368755
+Historical mean,1,Zone-H,2.05389542289034
+Seasonal naive,1,Zone-A,4.99248548332005
+Seasonal naive,1,Zone-B,4.772401229648184
+Seasonal naive,1,Zone-C,4.232608448138449
+Seasonal naive,1,Zone-D,2.90356370260731
+Seasonal naive,1,Zone-E,4.706136855288626
+Seasonal naive,1,Zone-F,2.9594671524536036
+Seasonal naive,1,Zone-G,5.2067630650119545
+Seasonal naive,1,Zone-H,2.7700102470681998
+Poisson GBM,1,Zone-A,3.4023527121510653
+Poisson GBM,1,Zone-B,3.2376491898235398
+Poisson GBM,1,Zone-C,3.0474673370599445
+Poisson GBM,1,Zone-D,2.032842095803417
+Poisson GBM,1,Zone-E,3.2323267648973464
+Poisson GBM,1,Zone-F,2.125048188787708
+Poisson GBM,1,Zone-G,3.538547732036724
+Poisson GBM,1,Zone-H,1.9782647476773239
+Quantile GBM (median),1,Zone-A,3.4131611888857063
+Quantile GBM (median),1,Zone-B,3.2370715669266237
+Quantile GBM (median),1,Zone-C,3.032883979525861
+Quantile GBM (median),1,Zone-D,2.027476427802404
+Quantile GBM (median),1,Zone-E,3.2268807260022205
+Quantile GBM (median),1,Zone-F,2.1350241788372126
+Quantile GBM (median),1,Zone-G,3.603630923323107
+Quantile GBM (median),1,Zone-H,1.959238537124792
+Historical mean,2,Zone-A,3.768803287129543
+Historical mean,2,Zone-B,3.550286510904486
+Historical mean,2,Zone-C,3.1466016289317964
+Historical mean,2,Zone-D,2.1424052969995877
+Historical mean,2,Zone-E,3.5291122352625157
+Historical mean,2,Zone-F,2.2256429663994606
+Historical mean,2,Zone-G,3.943689838635382
+Historical mean,2,Zone-H,2.0538903962685224
+Seasonal naive,2,Zone-A,4.992712366203598
+Seasonal naive,2,Zone-B,4.77283079025279
+Seasonal naive,2,Zone-C,4.232634935094511
+Seasonal naive,2,Zone-D,2.9036665907538146
+Seasonal naive,2,Zone-E,4.706445001138693
+Seasonal naive,2,Zone-F,2.959690275563653
+Seasonal naive,2,Zone-G,5.205989524026418
+Seasonal naive,2,Zone-H,2.770211796857208
+Poisson GBM,2,Zone-A,3.3982974073728855
+Poisson GBM,2,Zone-B,3.242762548799619
+Poisson GBM,2,Zone-C,3.0662836658611936
+Poisson GBM,2,Zone-D,2.034545800225284
+Poisson GBM,2,Zone-E,3.226600462925114
+Poisson GBM,2,Zone-F,2.122831117869468
+Poisson GBM,2,Zone-G,3.5188333072147056
+Poisson GBM,2,Zone-H,1.971895550308307
+Quantile GBM (median),2,Zone-A,3.4079644835201877
+Quantile GBM (median),2,Zone-B,3.2191285914650742
+Quantile GBM (median),2,Zone-C,3.029485101549352
+Quantile GBM (median),2,Zone-D,2.0236799670169683
+Quantile GBM (median),2,Zone-E,3.2172824467832863
+Quantile GBM (median),2,Zone-F,2.128998697576172
+Quantile GBM (median),2,Zone-G,3.586323175349417
+Quantile GBM (median),2,Zone-H,1.9485695455830374
+Historical mean,3,Zone-A,3.768823421197866
+Historical mean,3,Zone-B,3.550155682011226
+Historical mean,3,Zone-C,3.146947260152911
+Historical mean,3,Zone-D,2.142557726532485
+Historical mean,3,Zone-E,3.5292364753668233
+Historical mean,3,Zone-F,2.2254670073858565
+Historical mean,3,Zone-G,3.9436794752416047
+Historical mean,3,Zone-H,2.0539350953647864
+Seasonal naive,3,Zone-A,4.992256007288463
+Seasonal naive,3,Zone-B,4.772918801958775
+Seasonal naive,3,Zone-C,4.233003074820635
+Seasonal naive,3,Zone-D,2.903769502334586
+Seasonal naive,3,Zone-E,4.706867099419201
+Seasonal naive,3,Zone-F,2.959685685001708
+Seasonal naive,3,Zone-G,5.206468511559048
+Seasonal naive,3,Zone-H,2.7701856280605854
+Poisson GBM,3,Zone-A,3.374457681987351
+Poisson GBM,3,Zone-B,3.2299984457994113
+Poisson GBM,3,Zone-C,3.0383153743658227
+Poisson GBM,3,Zone-D,2.0340330170945724
+Poisson GBM,3,Zone-E,3.224524365147428
+Poisson GBM,3,Zone-F,2.118776177774766
+Poisson GBM,3,Zone-G,3.504024182618095
+Poisson GBM,3,Zone-H,1.9692009657746106
+Quantile GBM (median),3,Zone-A,3.4106267321977612
+Quantile GBM (median),3,Zone-B,3.214249101181276
+Quantile GBM (median),3,Zone-C,3.011779142896414
+Quantile GBM (median),3,Zone-D,2.021413280412902
+Quantile GBM (median),3,Zone-E,3.207324406438171
+Quantile GBM (median),3,Zone-F,2.125064835853769
+Quantile GBM (median),3,Zone-G,3.6013702215153476
+Quantile GBM (median),3,Zone-H,1.9460986910854368
